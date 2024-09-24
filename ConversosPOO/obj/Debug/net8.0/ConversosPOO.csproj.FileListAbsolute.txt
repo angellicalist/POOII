@@ -1,0 +1,14 @@
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\bin\Debug\net8.0\ConversosPOO.exe
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\bin\Debug\net8.0\ConversosPOO.deps.json
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\bin\Debug\net8.0\ConversosPOO.runtimeconfig.json
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\bin\Debug\net8.0\ConversosPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\bin\Debug\net8.0\ConversosPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.AssemblyInfoInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.AssemblyInfo.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.csproj.CoreCompileInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\refint\ConversosPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ConversosPOO.genruntimeconfig.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\ConversosPOO\obj\Debug\net8.0\ref\ConversosPOO.dll
