@@ -1,0 +1,14 @@
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\bin\Debug\net8.0\FornecedorPOO.exe
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\bin\Debug\net8.0\FornecedorPOO.deps.json
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\bin\Debug\net8.0\FornecedorPOO.runtimeconfig.json
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\bin\Debug\net8.0\FornecedorPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\bin\Debug\net8.0\FornecedorPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.AssemblyInfoInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.AssemblyInfo.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.csproj.CoreCompileInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\refint\FornecedorPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\FornecedorPOO.genruntimeconfig.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\FornecedorPOO\obj\Debug\net8.0\ref\FornecedorPOO.dll
