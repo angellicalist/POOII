@@ -1,0 +1,14 @@
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\bin\Debug\net8.0\ClientesPOO.exe
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\bin\Debug\net8.0\ClientesPOO.deps.json
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\bin\Debug\net8.0\ClientesPOO.runtimeconfig.json
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\bin\Debug\net8.0\ClientesPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\bin\Debug\net8.0\ClientesPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.AssemblyInfoInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.AssemblyInfo.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.csproj.CoreCompileInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\refint\ClientesPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ClientesPOO.genruntimeconfig.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\ClientesPOO\obj\Debug\net8.0\ref\ClientesPOO.dll
