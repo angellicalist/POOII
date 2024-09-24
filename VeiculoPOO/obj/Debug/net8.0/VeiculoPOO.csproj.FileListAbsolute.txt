@@ -1,0 +1,14 @@
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\bin\Debug\net8.0\VeiculoPOO.exe
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\bin\Debug\net8.0\VeiculoPOO.deps.json
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\bin\Debug\net8.0\VeiculoPOO.runtimeconfig.json
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\bin\Debug\net8.0\VeiculoPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\bin\Debug\net8.0\VeiculoPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.AssemblyInfoInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.AssemblyInfo.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.csproj.CoreCompileInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\refint\VeiculoPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\VeiculoPOO.genruntimeconfig.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\VeiculoPOO\obj\Debug\net8.0\ref\VeiculoPOO.dll
