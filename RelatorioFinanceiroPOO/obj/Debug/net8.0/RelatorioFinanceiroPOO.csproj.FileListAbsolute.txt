@@ -1,0 +1,14 @@
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.AssemblyInfoInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.AssemblyInfo.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\bin\Debug\net8.0\RelatorioFinanceiroPOO.exe
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\bin\Debug\net8.0\RelatorioFinanceiroPOO.deps.json
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\bin\Debug\net8.0\RelatorioFinanceiroPOO.runtimeconfig.json
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\bin\Debug\net8.0\RelatorioFinanceiroPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\bin\Debug\net8.0\RelatorioFinanceiroPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\refint\RelatorioFinanceiroPOO.dll
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.pdb
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\RelatorioFinanceiroPOO.genruntimeconfig.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\RelatorioFinanceiroPOO\obj\Debug\net8.0\ref\RelatorioFinanceiroPOO.dll
